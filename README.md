@@ -1,7 +1,3 @@
-# Accuracy Without Grounding
-
-Code, predictions, analysis, and paper artifacts for:
-
 **Accuracy Without Grounding: Diagnosing Visual Dependency Dissociation in Video LLM Benchmarks**  
 Jae Joong Lee, Department of Computer Science, Purdue University  
 Accepted at ACM Multimedia 2026
@@ -354,9 +350,6 @@ pdflatex main_arxiv.tex
 
 The compiled manuscript is available at `paper/main_arxiv.pdf`.
 
-## Project website
-
-<https://www.jaejoonglee.com/acmmm-vdg/>
 
 ## Reproducibility notes
 
