@@ -1,0 +1,165 @@
+{
+  "benchmark": "EgoSchema",
+  "date": "2026-03-18",
+  "n_bootstrap": 2000,
+  "rng_seed": 42,
+  "chance_level": 0.2,
+  "section1_vgg": {
+    "qwen": {
+      "model": "Qwen2-VL-7B-Instruct",
+      "n": 500,
+      "orig_acc": 0.568,
+      "black_acc": 0.304,
+      "vgg": 0.264,
+      "ci_lo": 0.22,
+      "ci_hi": 0.308
+    },
+    "llava": {
+      "model": "LLaVA-Video-7B-Qwen2",
+      "n": 500,
+      "orig_acc": 0.514,
+      "black_acc": 0.206,
+      "vgg": 0.308,
+      "ci_lo": 0.264,
+      "ci_hi": 0.352
+    },
+    "iv2": {
+      "model": "InternVL2-8B",
+      "n": 500,
+      "orig_acc": 0.6,
+      "black_acc": 0.318,
+      "vgg": 0.282,
+      "ci_lo": 0.236,
+      "ci_hi": 0.33
+    }
+  },
+  "section2_mcnemar": {
+    "iv2_vs_qwen": {
+      "label": "InternVL2 vs Qwen2-VL",
+      "original": {
+        "n_common": 500,
+        "b00": 131,
+        "b01": 69,
+        "b10": 85,
+        "b11": 215,
+        "acc_a": 0.6,
+        "acc_b": 0.568,
+        "chi2": 1.4610389610389611,
+        "p": 0.22676488352483737
+      },
+      "black": {
+        "n_common": 500,
+        "b00": 280,
+        "b01": 61,
+        "b10": 68,
+        "b11": 91,
+        "acc_a": 0.318,
+        "acc_b": 0.304,
+        "chi2": 0.27906976744186046,
+        "p": 0.597311573194272
+      },
+      "dissociation": false
+    },
+    "iv2_vs_llava": {
+      "label": "InternVL2 vs LLaVA",
+      "original": {
+        "n_common": 500,
+        "b00": 148,
+        "b01": 52,
+        "b10": 95,
+        "b11": 205,
+        "acc_a": 0.6,
+        "acc_b": 0.514,
+        "chi2": 12.0,
+        "p": 0.0005320055051392103
+      },
+      "black": {
+        "n_common": 500,
+        "b00": 302,
+        "b01": 39,
+        "b10": 95,
+        "b11": 64,
+        "acc_a": 0.318,
+        "acc_b": 0.206,
+        "chi2": 22.574626865671643,
+        "p": 2.0213665985480134e-06
+      },
+      "dissociation": false
+    },
+    "qwen_vs_llava": {
+      "label": "Qwen2-VL  vs LLaVA",
+      "original": {
+        "n_common": 500,
+        "b00": 169,
+        "b01": 47,
+        "b10": 74,
+        "b11": 210,
+        "acc_a": 0.568,
+        "acc_b": 0.514,
+        "chi2": 5.586776859504132,
+        "p": 0.01809656541369109
+      },
+      "black": {
+        "n_common": 500,
+        "b00": 318,
+        "b01": 30,
+        "b10": 79,
+        "b11": 73,
+        "acc_a": 0.304,
+        "acc_b": 0.206,
+        "chi2": 21.137614678899084,
+        "p": 4.274548949467771e-06
+      },
+      "dissociation": false
+    }
+  },
+  "section3_consistency": {
+    "qwen": {
+      "vgg": 0.264,
+      "observed_tier": "action_comprehension",
+      "predicted_tier": "action_comprehension",
+      "match": true
+    },
+    "llava": {
+      "vgg": 0.308,
+      "observed_tier": "perceptual_physical",
+      "predicted_tier": "action_comprehension",
+      "match": false
+    },
+    "iv2": {
+      "vgg": 0.282,
+      "observed_tier": "action_comprehension",
+      "predicted_tier": "action_comprehension",
+      "match": true
+    },
+    "_verdict": {
+      "confirmed": 2,
+      "tested": 3,
+      "verdict": "NOT CONFIRMED",
+      "predicted_tier": "action_comprehension"
+    }
+  },
+  "section4_destructive": {
+    "qwen": {
+      "model": "Qwen2-VL-7B-Instruct",
+      "destructive": 150,
+      "constructive": 18,
+      "ratio": 8.3333,
+      "net_loss": 132
+    },
+    "llava": {
+      "model": "LLaVA-Video-7B-Qwen2",
+      "destructive": 167,
+      "constructive": 13,
+      "ratio": 12.8462,
+      "net_loss": 154
+    },
+    "iv2": {
+      "model": "InternVL2-8B",
+      "destructive": 159,
+      "constructive": 18,
+      "ratio": 8.8333,
+      "net_loss": 141
+    }
+  }
+}

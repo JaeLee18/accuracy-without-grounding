@@ -1,0 +1,183 @@
+MVBench Analysis — Paper Numbers
+Date: 2026-03-18
+
+============================================================
+MODEL: Qwen2-VL-7B-Instruct
+============================================================
+
+Task Type                             orig  crf38  black     VGG
+-----------------------------------------------------------------
+  action_antonym                     0.840  0.900  0.600   0.240
+  action_prediction                  0.640  0.600  0.240   0.400
+  counterfactual_inference           0.620  0.520  0.360   0.260
+  egocentric_navigation              0.380  0.380  0.320   0.060
+  episodic_reasoning                 0.548  0.613  0.500   0.048
+  object_existence                   0.848  0.739  0.457   0.391
+  scene_transition                   0.960  0.940  0.620   0.340
+  state_change                       0.500  0.440  0.340   0.160
+  unexpected_action                  0.700  0.680  0.760  -0.060
+
+  [Excluded task types — n<30, not used in paper analysis]
+  Task Type                           orig  crf38  black     VGG  n
+  ------------------------------------------------------------
+  action_localization                0.000  0.000  0.500  -0.500  2
+  action_sequence                    0.714  0.571  0.286   0.429  7
+  moving_attribute                   1.000  1.000  0.000   1.000  1
+  moving_count                       0.000  0.000  0.000   0.000  1
+  object_interaction                 1.000  1.000  0.667   0.333  3
+  object_shuffle                     0.000  0.000  0.000   0.000  2
+
+  OVERALL                            0.670  0.622  0.460   0.210
+
+  Overall VGG = 0.2077 [0.1580, 0.2596] 95% CI
+
+  Per-task VGG bootstrap (full task types, sorted by VGG):
+    action_prediction                 VGG=0.400 [0.220, 0.580]
+    object_existence                  VGG=0.391 [0.239, 0.543]
+    scene_transition                  VGG=0.340 [0.220, 0.480]
+    counterfactual_inference          VGG=0.260 [0.080, 0.440]
+    action_antonym                    VGG=0.240 [0.100, 0.380]
+    state_change                      VGG=0.160 [0.040, 0.300]
+    egocentric_navigation             VGG=0.060 [-0.020, 0.160]
+    episodic_reasoning                VGG=0.000 [-0.161, 0.194]
+    unexpected_action                 VGG=-0.060 [-0.200, 0.080]
+
+  CRF38 degradation (original - crf38, full task types):
+    action_antonym                    -0.060
+    action_prediction                 +0.040
+    counterfactual_inference          +0.100
+    egocentric_navigation             +0.000
+    episodic_reasoning                -0.065
+    object_existence                  +0.109
+    scene_transition                  +0.020
+    state_change                      +0.060
+    unexpected_action                 +0.020
+
+  Completed entries: 1308
+  Error entries: 78
+
+============================================================
+MODEL: LLaVA-Video-7B-Qwen2
+============================================================
+
+Task Type                             orig  crf38  black     VGG
+-----------------------------------------------------------------
+  action_antonym                     0.780  0.750  0.460   0.320
+  action_prediction                  0.640  0.600  0.200   0.440
+  counterfactual_inference           0.560  0.540  0.380   0.180
+  egocentric_navigation              0.380  0.340  0.300   0.080
+  episodic_reasoning                 0.660  0.660  0.540   0.120
+  object_existence                   0.630  0.587  0.478   0.152
+  scene_transition                   0.940  0.960  0.860   0.080
+  state_change                       0.560  0.560  0.280   0.280
+  unexpected_action                  0.860  0.880  0.860   0.000
+
+  [Excluded task types — n<30, not used in paper analysis]
+  Task Type                           orig  crf38  black     VGG  n
+  ------------------------------------------------------------
+  action_localization                0.000  0.000  1.000  -1.000  2
+  action_sequence                    0.714  0.857  0.143   0.571  7
+  moving_attribute                   1.000  1.000  0.000   1.000  1
+  moving_count                       0.000  0.000  0.000   0.000  1
+  object_interaction                 0.667  1.000  0.000   0.667  3
+  object_shuffle                     0.000  0.000  0.500  -0.500  2
+
+  OVERALL                            0.662  0.646  0.476   0.186
+
+  Overall VGG = 0.1861 [0.1385, 0.2359] 95% CI
+
+  Per-task VGG bootstrap (full task types, sorted by VGG):
+    action_prediction                 VGG=0.440 [0.280, 0.600]
+    action_antonym                    VGG=0.320 [0.200, 0.460]
+    state_change                      VGG=0.280 [0.080, 0.460]
+    counterfactual_inference          VGG=0.180 [0.020, 0.340]
+    object_existence                  VGG=0.152 [-0.043, 0.348]
+    episodic_reasoning                VGG=0.120 [-0.020, 0.260]
+    egocentric_navigation             VGG=0.080 [-0.020, 0.180]
+    scene_transition                  VGG=0.080 [0.000, 0.180]
+    unexpected_action                 VGG=0.000 [-0.120, 0.120]
+
+  CRF38 degradation (original - crf38, full task types):
+    action_antonym                    +0.030
+    action_prediction                 +0.040
+    counterfactual_inference          +0.020
+    egocentric_navigation             +0.040
+    episodic_reasoning                +0.000
+    object_existence                  +0.043
+    scene_transition                  -0.020
+    state_change                      +0.000
+    unexpected_action                 -0.020
+
+  Completed entries: 1356
+  Error entries: 30
+
+============================================================
+MODEL: InternVL2-8B
+============================================================
+
+Task Type                             orig  crf38  black     VGG
+-----------------------------------------------------------------
+  action_antonym                     0.880  0.950  0.340   0.540
+  action_prediction                  0.680  0.660  0.380   0.300
+  counterfactual_inference           0.860  0.820  0.460   0.400
+  egocentric_navigation              0.380  0.440  0.360   0.020
+  episodic_reasoning                 0.580  0.600  0.580   0.000
+  object_existence                   1.000  0.978  0.457   0.543
+  scene_transition                   0.980  0.960  0.660   0.320
+  state_change                       0.580  0.540  0.540   0.040
+  unexpected_action                  0.760  0.700  0.620   0.140
+
+  [Excluded task types — n<30, not used in paper analysis]
+  Task Type                           orig  crf38  black     VGG  n
+  ------------------------------------------------------------
+  action_localization                0.000  0.000  0.000   0.000  2
+  action_sequence                    0.857  0.571  0.143   0.714  7
+  moving_attribute                   1.000  1.000  0.000   1.000  1
+  moving_count                       1.000  1.000  0.000   1.000  1
+  object_interaction                 1.000  1.000  0.333   0.667  3
+  object_shuffle                     0.500  0.000  0.000   0.500  2
+
+  OVERALL                            0.742  0.715  0.476   0.266
+
+  Overall VGG = 0.2662 [0.2143, 0.3225] 95% CI
+
+  Per-task VGG bootstrap (full task types, sorted by VGG):
+    object_existence                  VGG=0.543 [0.413, 0.674]
+    action_antonym                    VGG=0.540 [0.380, 0.680]
+    counterfactual_inference          VGG=0.400 [0.220, 0.560]
+    scene_transition                  VGG=0.320 [0.200, 0.440]
+    action_prediction                 VGG=0.300 [0.120, 0.480]
+    unexpected_action                 VGG=0.140 [-0.000, 0.300]
+    state_change                      VGG=0.040 [-0.120, 0.200]
+    egocentric_navigation             VGG=0.020 [-0.100, 0.140]
+    episodic_reasoning                VGG=0.000 [-0.100, 0.100]
+
+  CRF38 degradation (original - crf38, full task types):
+    action_antonym                    -0.070
+    action_prediction                 +0.020
+    counterfactual_inference          +0.040
+    egocentric_navigation             -0.060
+    episodic_reasoning                -0.020
+    object_existence                  +0.022
+    scene_transition                  +0.020
+    state_change                      +0.040
+    unexpected_action                 +0.060
+
+  Completed entries: 1356
+  Error entries: 30
+
+============================================================
+CROSS-MODEL VGG COMPARISON (3 models)
+============================================================
+
+Task Type                             Qwen VGG  LLaVA VGG    IV2 VGG
+--------------------------------------------------------------------
+  action_antonym                         0.240      0.320      0.540
+  action_prediction                      0.400      0.440      0.300
+  counterfactual_inference               0.260      0.180      0.400
+  egocentric_navigation                  0.060      0.080      0.020
+  episodic_reasoning                     0.048      0.120      0.000
+  object_existence                       0.391      0.152      0.543
+  scene_transition                       0.340      0.080      0.320
+  state_change                           0.160      0.280      0.040
+  unexpected_action                     -0.060      0.000      0.140

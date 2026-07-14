@@ -1,0 +1,5402 @@
+[
+  {
+    "question_id": "007-3",
+    "videoID": "0ay2Qy3wBe8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "019-3",
+    "videoID": "mVIXU0x9ocI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "022-1",
+    "videoID": "n3IYmdy6d4Y",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "026-2",
+    "videoID": "XWfqBKeC0g8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "027-2",
+    "videoID": "tS4a6I4-Yjo",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "036-2",
+    "videoID": "MXKDvuEkSF0",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "036-3",
+    "videoID": "MXKDvuEkSF0",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "037-1",
+    "videoID": "EQ-67udZEeg",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "040-2",
+    "videoID": "5ksVshqVuiM",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "061-3",
+    "videoID": "LCtOpCi5r2s",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "062-2",
+    "videoID": "jTzKgI68VLc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "062-3",
+    "videoID": "jTzKgI68VLc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "068-2",
+    "videoID": "UZvydHZKyww",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "073-1",
+    "videoID": "7iXM5aq53Ts",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "081-2",
+    "videoID": "FjS2LzrHEO8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "085-1",
+    "videoID": "hUrjmA0fhsc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "086-3",
+    "videoID": "aBdQQxgxDrY",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "089-2",
+    "videoID": "JxkJ-FwFeVI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "090-3",
+    "videoID": "c9arR8T0Qts",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "105-1",
+    "videoID": "rQhLWHtHyiM",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "111-3",
+    "videoID": "HmnKbBmYii8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "115-2",
+    "videoID": "W86cTIoMv2U",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "118-3",
+    "videoID": "tGdL-34L-GE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "122-1",
+    "videoID": "Z-rHofd6g2Q",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "122-2",
+    "videoID": "Z-rHofd6g2Q",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "123-1",
+    "videoID": "lmlw4NNZBbw",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "126-3",
+    "videoID": "y6ReUXtm_VE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "142-1",
+    "videoID": "rj6rJzs029A",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "153-1",
+    "videoID": "_KU4X06VNiE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "153-2",
+    "videoID": "_KU4X06VNiE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "154-3",
+    "videoID": "1tidNDIpKSY",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "157-2",
+    "videoID": "9dQXiqS56Y4",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "158-1",
+    "videoID": "uJFbOrNrL3w",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "160-1",
+    "videoID": "njc90ODIbLc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "162-2",
+    "videoID": "8y2Hj7GDcwI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "162-3",
+    "videoID": "8y2Hj7GDcwI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "163-3",
+    "videoID": "zNxi2s36tS0",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "169-2",
+    "videoID": "CHlJdMVLV2s",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "170-1",
+    "videoID": "E895PNqSgEI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "173-1",
+    "videoID": "tbKTfX5Az6w",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "174-2",
+    "videoID": "84EpEwIVFdU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "176-1",
+    "videoID": "wGfRSojH0PE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "177-1",
+    "videoID": "6DO8yOVYXr0",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "178-3",
+    "videoID": "IPevXMMEVQ0",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "179-3",
+    "videoID": "fkJv7LRa6Pc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "187-2",
+    "videoID": "iOOseoPiw8E",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "202-1",
+    "videoID": "QtKT3q7xB4M",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "230-2",
+    "videoID": "B_OL2TSrpKM",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "240-3",
+    "videoID": "4twBzf6ngSc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "242-2",
+    "videoID": "lokFoo_QD8c",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "249-3",
+    "videoID": "OGQ7KwUXuBk",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "252-3",
+    "videoID": "RP1AL2DU6vQ",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "259-1",
+    "videoID": "RU8IfXp7LbE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "265-1",
+    "videoID": "5-4Od1qn53s",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "268-1",
+    "videoID": "27YZLpw0M98",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "270-1",
+    "videoID": "gR5YcIJhDcU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "292-3",
+    "videoID": "DoFmXBjRGmk",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "489-2",
+    "videoID": "_w4XRiUVfY4",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "421-2",
+    "videoID": "9SEMSQDO-pg",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "339-3",
+    "videoID": "qFUuUzZNznY",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "367-1",
+    "videoID": "orVnyudsNuw",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "459-1",
+    "videoID": "bOUSkh5PInA",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "476-1",
+    "videoID": "DfZIv2FKWj4",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "560-2",
+    "videoID": "NeLj-gLWgug",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "343-1",
+    "videoID": "sf4qRY3h_eo",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "584-1",
+    "videoID": "lNvBXLbInXE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "377-2",
+    "videoID": "RF86oSB6_bc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "457-1",
+    "videoID": "hwloS0JY6Ms",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "595-1",
+    "videoID": "cVIfe0Gxa64",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "501-3",
+    "videoID": "ad_higXixRA",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "303-1",
+    "videoID": "kSBB5PsRV-k",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "542-2",
+    "videoID": "3x8pvm0g5AU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "552-1",
+    "videoID": "3m29MQ-qPfg",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "508-3",
+    "videoID": "QopYbLq-zIQ",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "364-2",
+    "videoID": "3fQxvz4ENDg",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "477-2",
+    "videoID": "c66RN87YjNE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "461-1",
+    "videoID": "UmIYanq5gH8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "467-2",
+    "videoID": "vf3sPa2W0sA",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "442-3",
+    "videoID": "kjwjDjQupLc",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "485-1",
+    "videoID": "BEIVOKz4zXw",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "463-1",
+    "videoID": "u_f0697yLBI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "503-1",
+    "videoID": "S_MAesZsnMk",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "460-2",
+    "videoID": "rL9JCz7S8Jg",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "385-3",
+    "videoID": "bepwr1-CNRU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "587-2",
+    "videoID": "zPyWOtToo6E",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "474-1",
+    "videoID": "FYqSATdr62Q",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "332-2",
+    "videoID": "zIbNJCSCEjk",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "425-3",
+    "videoID": "HK13nVxBYxI",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "465-1",
+    "videoID": "zW87tVnDKIU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "365-2",
+    "videoID": "IGyx5UEwgtA",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "482-2",
+    "videoID": "-3t1rj8g6yg",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "358-3",
+    "videoID": "_qepWb_NVj4",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "553-3",
+    "videoID": "tCRpDpDgBcE",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "599-1",
+    "videoID": "0JjgoicpYkU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "418-3",
+    "videoID": "9Y-YJEtxHeo",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "458-3",
+    "videoID": "6ksaVHtfBG8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "458-1",
+    "videoID": "6ksaVHtfBG8",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "456-3",
+    "videoID": "2Gg4OQo7-zA",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "599-3",
+    "videoID": "0JjgoicpYkU",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "373-3",
+    "videoID": "ce_uHxXsUWA",
+    "task_type": "OCR Problems",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "263-2",
+    "videoID": "AyIqI6P8eN8",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "014-1",
+    "videoID": "uqILuTcux_o",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "188-2",
+    "videoID": "XK6ApJHa59I",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "134-3",
+    "videoID": "6Z_XNM_iT4g",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "211-2",
+    "videoID": "lNO6cYxqMZk",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "023-2",
+    "videoID": "iZYLeIJwe4w",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "051-2",
+    "videoID": "Qyg_91gNHCc",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "176-2",
+    "videoID": "wGfRSojH0PE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "026-1",
+    "videoID": "XWfqBKeC0g8",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "195-2",
+    "videoID": "QGHVpr8FIN8",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "237-1",
+    "videoID": "YZ11C-U7S8I",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "051-3",
+    "videoID": "Qyg_91gNHCc",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "128-2",
+    "videoID": "EJ_yarUrgVQ",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "222-2",
+    "videoID": "FlcVBKTSjRs",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "144-1",
+    "videoID": "QUmkzhUQoEA",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "093-2",
+    "videoID": "drbi6HK1gSc",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "045-3",
+    "videoID": "990ci2H9BBc",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "039-1",
+    "videoID": "XOJKiOw8Xqo",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "296-1",
+    "videoID": "bHt0Riqz0qo",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "060-1",
+    "videoID": "8TNPeimqOO0",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "177-3",
+    "videoID": "6DO8yOVYXr0",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "048-1",
+    "videoID": "M7WOXFvwbSY",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "213-3",
+    "videoID": "KEy2iCzpce4",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "144-2",
+    "videoID": "QUmkzhUQoEA",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "103-1",
+    "videoID": "G267g0DpCVg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "098-3",
+    "videoID": "PU-XOFIJMlg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "129-2",
+    "videoID": "tNQo2GTbP6s",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "028-1",
+    "videoID": "TVkck1ACKDQ",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "073-2",
+    "videoID": "7iXM5aq53Ts",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "221-1",
+    "videoID": "c9oXTCVcTSE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "141-3",
+    "videoID": "lsfEHOtYGyk",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "075-1",
+    "videoID": "uz6rjbw0ZA0",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "262-1",
+    "videoID": "PaC3CEkCD6k",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "290-2",
+    "videoID": "IRDp5HcZyVA",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "061-2",
+    "videoID": "LCtOpCi5r2s",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "209-2",
+    "videoID": "n7q1yYzx2g8",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "046-2",
+    "videoID": "gD0MvkDGAMg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "150-2",
+    "videoID": "Tn70NxIMk2Q",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "243-3",
+    "videoID": "pwVJizpCuDQ",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "289-2",
+    "videoID": "SFmocFLXg0Y",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "218-3",
+    "videoID": "jmE9y0vv2aM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "188-1",
+    "videoID": "XK6ApJHa59I",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "200-3",
+    "videoID": "LeBG88YT3rU",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "161-3",
+    "videoID": "-qTAeVGl_e8",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "133-2",
+    "videoID": "uF3zNOthLAg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "045-1",
+    "videoID": "990ci2H9BBc",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "272-1",
+    "videoID": "YsPwg3dUwjQ",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "145-3",
+    "videoID": "gvtvz-keDmE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "003-2",
+    "videoID": "HIjX8OPuf-w",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "094-2",
+    "videoID": "M69Sn3OERZo",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "245-1",
+    "videoID": "ZO12ZY38FEw",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "287-3",
+    "videoID": "UcL6WlcyBcI",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "100-3",
+    "videoID": "56yT3H_DjVE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "219-3",
+    "videoID": "fSDq8CPXHQM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "248-3",
+    "videoID": "6NVr0cNiHPM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "143-3",
+    "videoID": "PJHkIJZGwKA",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "132-1",
+    "videoID": "4V6G0qYVoBg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "286-2",
+    "videoID": "5kmnEgBSCfg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "113-3",
+    "videoID": "HqAfzcJurMM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "279-1",
+    "videoID": "hsKmC7RwHvo",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "190-2",
+    "videoID": "PSC_HUeqaUk",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "287-2",
+    "videoID": "UcL6WlcyBcI",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "217-3",
+    "videoID": "BrrDT_uYQsg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "162-1",
+    "videoID": "8y2Hj7GDcwI",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "231-1",
+    "videoID": "KfTtpoIovuk",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "298-3",
+    "videoID": "4ZK-m01XSQ8",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "197-1",
+    "videoID": "1q-5IIyZL20",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "208-1",
+    "videoID": "44ivpEIcBhE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "245-2",
+    "videoID": "ZO12ZY38FEw",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "216-1",
+    "videoID": "5Knkqo-lYF0",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "152-2",
+    "videoID": "PYqmI0Hiaho",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "288-3",
+    "videoID": "j7vUGiA-uIE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "214-3",
+    "videoID": "dH8l--46j6s",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "153-3",
+    "videoID": "_KU4X06VNiE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "152-3",
+    "videoID": "PYqmI0Hiaho",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "160-3",
+    "videoID": "njc90ODIbLc",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "072-1",
+    "videoID": "VsuShNWghXk",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "232-1",
+    "videoID": "zPx3EibuO_w",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "157-1",
+    "videoID": "9dQXiqS56Y4",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "164-2",
+    "videoID": "YNV0pLQ3r5U",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "010-3",
+    "videoID": "PSt_op3fQck",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "131-3",
+    "videoID": "HdBsD5VspVM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "234-3",
+    "videoID": "v0m3E_uSyFg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "280-2",
+    "videoID": "S1nUMsPC1-0",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "196-1",
+    "videoID": "lNKtsi2Cu0E",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "143-1",
+    "videoID": "PJHkIJZGwKA",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "260-1",
+    "videoID": "3E4Zca1p64s",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "227-2",
+    "videoID": "qhW8L_GAodE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "132-3",
+    "videoID": "4V6G0qYVoBg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "276-1",
+    "videoID": "6Cr_8tvvQ0k",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "073-3",
+    "videoID": "7iXM5aq53Ts",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "030-2",
+    "videoID": "39HTpUG1MwQ",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "076-1",
+    "videoID": "KOwR0Ln46Ks",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "071-3",
+    "videoID": "IzQ2siryQrM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "097-2",
+    "videoID": "uoJDGnaVuTg",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "197-3",
+    "videoID": "1q-5IIyZL20",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "056-2",
+    "videoID": "WmVLcj-XKnM",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "178-1",
+    "videoID": "IPevXMMEVQ0",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "004-3",
+    "videoID": "HwnB8aCn8yE",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "191-3",
+    "videoID": "vQTQJ1Mlzqo",
+    "task_type": "Object Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "121-2",
+    "videoID": "43wqf_KhiUo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "280-3",
+    "videoID": "S1nUMsPC1-0",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "146-1",
+    "videoID": "V9fsOaa97F4",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "067-2",
+    "videoID": "yXNShWnon4g",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "273-3",
+    "videoID": "Kn10Jf1x24Q",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "025-2",
+    "videoID": "ebzbKa32kuk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "266-3",
+    "videoID": "2gFxZmb0dMo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "169-1",
+    "videoID": "CHlJdMVLV2s",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "277-1",
+    "videoID": "H8fbAFOMTp4",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "241-1",
+    "videoID": "jb-To6qJcxU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "243-1",
+    "videoID": "pwVJizpCuDQ",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "124-3",
+    "videoID": "c0siCya457M",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "202-2",
+    "videoID": "QtKT3q7xB4M",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "218-1",
+    "videoID": "jmE9y0vv2aM",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "195-3",
+    "videoID": "QGHVpr8FIN8",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "031-1",
+    "videoID": "TPS22HRRY1k",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "021-2",
+    "videoID": "TbaCxIJ_VP4",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "139-1",
+    "videoID": "80p80ynsZ78",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "181-2",
+    "videoID": "8np5YKYx3sU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "239-3",
+    "videoID": "VnvG08masio",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "188-3",
+    "videoID": "XK6ApJHa59I",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "265-3",
+    "videoID": "5-4Od1qn53s",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "225-2",
+    "videoID": "BiJtPU9uP0c",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "278-2",
+    "videoID": "fQVhppRP4Wo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "205-3",
+    "videoID": "EVnzXA9b7Ww",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "291-3",
+    "videoID": "nVtTVt9csBc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "261-2",
+    "videoID": "aWBRHk_-5as",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "228-1",
+    "videoID": "ufZMrlZRn8o",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "167-1",
+    "videoID": "913JhnW28U4",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "012-3",
+    "videoID": "qvwfWyU9Gfc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "267-1",
+    "videoID": "Atf_Af1q_5w",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "184-2",
+    "videoID": "HiJb_2dvuHc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "078-2",
+    "videoID": "SnOc5W0PgVE",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "119-2",
+    "videoID": "-ApL8d6tX5U",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "258-1",
+    "videoID": "ZfNSxRiYfZQ",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "166-2",
+    "videoID": "ejFVFtJdP3s",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "190-3",
+    "videoID": "PSC_HUeqaUk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "009-2",
+    "videoID": "sUDY-SMREtA",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "221-2",
+    "videoID": "c9oXTCVcTSE",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "011-2",
+    "videoID": "OE5S-NbNsro",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "116-1",
+    "videoID": "qK4G2KpmqFU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "077-1",
+    "videoID": "540LkURTR7g",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "159-3",
+    "videoID": "ByUONqA1IJY",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "128-3",
+    "videoID": "EJ_yarUrgVQ",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "229-1",
+    "videoID": "IKtnfFHjERg",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "094-1",
+    "videoID": "M69Sn3OERZo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "205-2",
+    "videoID": "EVnzXA9b7Ww",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "076-2",
+    "videoID": "KOwR0Ln46Ks",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "196-2",
+    "videoID": "lNKtsi2Cu0E",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "120-1",
+    "videoID": "s50vvwTystA",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "127-2",
+    "videoID": "YlAefotZNAc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "204-1",
+    "videoID": "pcm_E7UoKLo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "082-1",
+    "videoID": "m4qhFFdHTCc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "120-3",
+    "videoID": "s50vvwTystA",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "270-3",
+    "videoID": "gR5YcIJhDcU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "136-2",
+    "videoID": "LlajSKnbcGk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "059-2",
+    "videoID": "NEFG7YcIDcI",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "127-1",
+    "videoID": "YlAefotZNAc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "151-2",
+    "videoID": "JP67IM1LX-M",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "234-1",
+    "videoID": "v0m3E_uSyFg",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "204-3",
+    "videoID": "pcm_E7UoKLo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "186-2",
+    "videoID": "QhL6ICNQ_So",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "039-2",
+    "videoID": "XOJKiOw8Xqo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "244-1",
+    "videoID": "9v9NHoTXc-Q",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "299-3",
+    "videoID": "g7PjwIzqyCQ",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "015-1",
+    "videoID": "eXKE0nAMmg4",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "268-2",
+    "videoID": "27YZLpw0M98",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "272-3",
+    "videoID": "YsPwg3dUwjQ",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "058-2",
+    "videoID": "D52rTzibFRc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "030-3",
+    "videoID": "39HTpUG1MwQ",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "187-1",
+    "videoID": "iOOseoPiw8E",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "182-1",
+    "videoID": "2QTiAmvygC4",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "210-2",
+    "videoID": "XS6ysDFTbLU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "114-2",
+    "videoID": "pcO-alfiyEo",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "159-2",
+    "videoID": "ByUONqA1IJY",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "097-3",
+    "videoID": "uoJDGnaVuTg",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "211-3",
+    "videoID": "lNO6cYxqMZk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "174-1",
+    "videoID": "84EpEwIVFdU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "052-3",
+    "videoID": "nYLMNQ77FjM",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "066-1",
+    "videoID": "x6jPuXwtxCM",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "107-2",
+    "videoID": "2Qno7H4BwAU",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "104-3",
+    "videoID": "_cZXyj6rYVg",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "186-3",
+    "videoID": "QhL6ICNQ_So",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "190-1",
+    "videoID": "PSC_HUeqaUk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "212-3",
+    "videoID": "026dzf-vc5g",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "295-1",
+    "videoID": "Lv7cYKTYE2g",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "135-1",
+    "videoID": "fJ-hp5Jlbv0",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "063-2",
+    "videoID": "eTLMWnsStuk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "054-1",
+    "videoID": "wVlfyhs64IY",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "009-1",
+    "videoID": "sUDY-SMREtA",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "203-3",
+    "videoID": "mD_7mhnPS_Y",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "256-2",
+    "videoID": "aFfMGy94sjE",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "053-1",
+    "videoID": "DF_J3vCcbBA",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "016-1",
+    "videoID": "5_fXicEnKKk",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "083-1",
+    "videoID": "lKoG2_zdoSA",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "106-1",
+    "videoID": "bYXhA8VG8Lw",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "184-1",
+    "videoID": "HiJb_2dvuHc",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "023-3",
+    "videoID": "iZYLeIJwe4w",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "122-3",
+    "videoID": "Z-rHofd6g2Q",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "276-3",
+    "videoID": "6Cr_8tvvQ0k",
+    "task_type": "Attribute Perception",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "276-2",
+    "videoID": "6Cr_8tvvQ0k",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "108-2",
+    "videoID": "a0AGwUACt7E",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "049-1",
+    "videoID": "RvnC--JjDBw",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "212-1",
+    "videoID": "026dzf-vc5g",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "110-2",
+    "videoID": "Qgr4dcsY-60",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "279-2",
+    "videoID": "hsKmC7RwHvo",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "253-1",
+    "videoID": "kePBvNotYy4",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "219-2",
+    "videoID": "fSDq8CPXHQM",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "109-3",
+    "videoID": "qu9ImFMLYxw",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "132-2",
+    "videoID": "4V6G0qYVoBg",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "285-2",
+    "videoID": "p_-ocKiob4w",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "196-3",
+    "videoID": "lNKtsi2Cu0E",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "072-2",
+    "videoID": "VsuShNWghXk",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "284-1",
+    "videoID": "6EIrArTyLVU",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "007-1",
+    "videoID": "0ay2Qy3wBe8",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "173-3",
+    "videoID": "tbKTfX5Az6w",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "261-3",
+    "videoID": "aWBRHk_-5as",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "045-2",
+    "videoID": "990ci2H9BBc",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "099-3",
+    "videoID": "Ij-FYOrklFE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "143-2",
+    "videoID": "PJHkIJZGwKA",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "013-3",
+    "videoID": "5wLv3pCqZ9o",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "281-3",
+    "videoID": "VgtNv__qR0k",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "091-1",
+    "videoID": "_aVHf_jmWk8",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "252-1",
+    "videoID": "RP1AL2DU6vQ",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "256-3",
+    "videoID": "aFfMGy94sjE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "141-1",
+    "videoID": "lsfEHOtYGyk",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "296-2",
+    "videoID": "bHt0Riqz0qo",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "277-2",
+    "videoID": "H8fbAFOMTp4",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "199-2",
+    "videoID": "sxsjigV9S-Y",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "213-1",
+    "videoID": "KEy2iCzpce4",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "230-3",
+    "videoID": "B_OL2TSrpKM",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "294-1",
+    "videoID": "nbOXpuv7K4Q",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "101-3",
+    "videoID": "tiMaUSvlzIU",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "273-2",
+    "videoID": "Kn10Jf1x24Q",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "137-1",
+    "videoID": "dIPNQRVqJmY",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "260-2",
+    "videoID": "3E4Zca1p64s",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "168-3",
+    "videoID": "DK6bKtXUE1c",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "176-3",
+    "videoID": "wGfRSojH0PE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "281-1",
+    "videoID": "VgtNv__qR0k",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "011-3",
+    "videoID": "OE5S-NbNsro",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "102-2",
+    "videoID": "0IdYJGBmguM",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "293-1",
+    "videoID": "PYZSjin_Pe8",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "214-1",
+    "videoID": "dH8l--46j6s",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "293-2",
+    "videoID": "PYZSjin_Pe8",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "198-1",
+    "videoID": "V_skpmEXebM",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "229-2",
+    "videoID": "IKtnfFHjERg",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "278-3",
+    "videoID": "fQVhppRP4Wo",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "199-3",
+    "videoID": "sxsjigV9S-Y",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "258-2",
+    "videoID": "ZfNSxRiYfZQ",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "147-2",
+    "videoID": "7R1eNHvfspk",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "260-3",
+    "videoID": "3E4Zca1p64s",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "110-1",
+    "videoID": "Qgr4dcsY-60",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "271-3",
+    "videoID": "yXl0Vrk5ssk",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "180-2",
+    "videoID": "54YD3Gv-3MI",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "006-3",
+    "videoID": "40BlVzjxu-I",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "215-2",
+    "videoID": "VmNBt1tzC6k",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "053-2",
+    "videoID": "DF_J3vCcbBA",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "044-3",
+    "videoID": "fo0Hmch2YS0",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "092-2",
+    "videoID": "3rTsETO3s9U",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "217-2",
+    "videoID": "BrrDT_uYQsg",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "189-1",
+    "videoID": "eICN548E2TU",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "130-3",
+    "videoID": "ykJ7pyr87Qc",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "288-1",
+    "videoID": "j7vUGiA-uIE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "207-1",
+    "videoID": "RqA3LAo75kw",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "253-2",
+    "videoID": "kePBvNotYy4",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "194-2",
+    "videoID": "fRf2aYYPrkc",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "257-1",
+    "videoID": "s-lM2uwiwyQ",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "071-2",
+    "videoID": "IzQ2siryQrM",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "081-1",
+    "videoID": "FjS2LzrHEO8",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "104-1",
+    "videoID": "_cZXyj6rYVg",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "283-2",
+    "videoID": "UbIVqUDZOs0",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "275-1",
+    "videoID": "ZHWZf1Z4B5k",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "251-2",
+    "videoID": "1sTQOxXFO44",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "134-2",
+    "videoID": "6Z_XNM_iT4g",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "167-2",
+    "videoID": "913JhnW28U4",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "145-1",
+    "videoID": "gvtvz-keDmE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "018-1",
+    "videoID": "tX8a00l_Dfs",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "193-3",
+    "videoID": "jznsxDcKSnE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "015-2",
+    "videoID": "eXKE0nAMmg4",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "220-1",
+    "videoID": "D61jenC5oBA",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "165-3",
+    "videoID": "2yGaTOzaGIA",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "275-3",
+    "videoID": "ZHWZf1Z4B5k",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "290-3",
+    "videoID": "IRDp5HcZyVA",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "166-3",
+    "videoID": "ejFVFtJdP3s",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "266-2",
+    "videoID": "2gFxZmb0dMo",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "194-3",
+    "videoID": "fRf2aYYPrkc",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "292-1",
+    "videoID": "DoFmXBjRGmk",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "164-3",
+    "videoID": "YNV0pLQ3r5U",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "148-1",
+    "videoID": "KZu5iE7yrPI",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "285-3",
+    "videoID": "p_-ocKiob4w",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "264-3",
+    "videoID": "8e05W-wi38g",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "257-2",
+    "videoID": "s-lM2uwiwyQ",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "092-1",
+    "videoID": "3rTsETO3s9U",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "178-2",
+    "videoID": "IPevXMMEVQ0",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "259-3",
+    "videoID": "RU8IfXp7LbE",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "172-3",
+    "videoID": "8W4gbKKNI1E",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "284-2",
+    "videoID": "6EIrArTyLVU",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "156-1",
+    "videoID": "BkiTScinYOQ",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "238-2",
+    "videoID": "NXeHeEHj9Xc",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "179-1",
+    "videoID": "fkJv7LRa6Pc",
+    "task_type": "Action Recognition",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "002-2",
+    "videoID": "N1cdUjctpG8",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "005-2",
+    "videoID": "24i4ncHuf6A",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "009-3",
+    "videoID": "sUDY-SMREtA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "011-1",
+    "videoID": "OE5S-NbNsro",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "012-1",
+    "videoID": "qvwfWyU9Gfc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "013-2",
+    "videoID": "5wLv3pCqZ9o",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "018-3",
+    "videoID": "tX8a00l_Dfs",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "019-1",
+    "videoID": "mVIXU0x9ocI",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "020-2",
+    "videoID": "YPaLGP_xr-w",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "027-3",
+    "videoID": "tS4a6I4-Yjo",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "047-1",
+    "videoID": "WTQ7_e8bnfM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "049-3",
+    "videoID": "RvnC--JjDBw",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "053-3",
+    "videoID": "DF_J3vCcbBA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "077-3",
+    "videoID": "540LkURTR7g",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "092-3",
+    "videoID": "3rTsETO3s9U",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "093-1",
+    "videoID": "drbi6HK1gSc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "093-3",
+    "videoID": "drbi6HK1gSc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "101-2",
+    "videoID": "tiMaUSvlzIU",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "103-3",
+    "videoID": "G267g0DpCVg",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "104-2",
+    "videoID": "_cZXyj6rYVg",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "106-2",
+    "videoID": "bYXhA8VG8Lw",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "107-3",
+    "videoID": "2Qno7H4BwAU",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "110-3",
+    "videoID": "Qgr4dcsY-60",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "111-2",
+    "videoID": "HmnKbBmYii8",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "112-3",
+    "videoID": "MPfuSfiZ96A",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "120-2",
+    "videoID": "s50vvwTystA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "125-2",
+    "videoID": "nKtWkDNGNOw",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "126-2",
+    "videoID": "y6ReUXtm_VE",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "142-2",
+    "videoID": "rj6rJzs029A",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "145-2",
+    "videoID": "gvtvz-keDmE",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "148-2",
+    "videoID": "KZu5iE7yrPI",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "148-3",
+    "videoID": "KZu5iE7yrPI",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "150-3",
+    "videoID": "Tn70NxIMk2Q",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "171-3",
+    "videoID": "FsLaTZmP6Uw",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "179-2",
+    "videoID": "fkJv7LRa6Pc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "184-3",
+    "videoID": "HiJb_2dvuHc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "192-2",
+    "videoID": "gTBRQaBRiSs",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "201-2",
+    "videoID": "k74LDvXSnHM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "203-2",
+    "videoID": "mD_7mhnPS_Y",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "210-3",
+    "videoID": "XS6ysDFTbLU",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "227-3",
+    "videoID": "qhW8L_GAodE",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "238-3",
+    "videoID": "NXeHeEHj9Xc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "296-3",
+    "videoID": "bHt0Riqz0qo",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "297-3",
+    "videoID": "AIs3LoU4JUo",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "300-1",
+    "videoID": "mBD-TPIHbUs",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "300-2",
+    "videoID": "mBD-TPIHbUs",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "300-3",
+    "videoID": "mBD-TPIHbUs",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "564-2",
+    "videoID": "tPQX0lMk6U0",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "315-3",
+    "videoID": "B2zhLYz4pYo",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "571-2",
+    "videoID": "Huj-zXv4DEw",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "533-3",
+    "videoID": "5xi1iD4fkhc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "443-3",
+    "videoID": "cPlpZdGLa5A",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "535-3",
+    "videoID": "ooqdg9Wr-mo",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "503-2",
+    "videoID": "S_MAesZsnMk",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "448-2",
+    "videoID": "YPvxuoNLgPE",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "371-3",
+    "videoID": "7fnVcXfPe5c",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "373-2",
+    "videoID": "ce_uHxXsUWA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "580-2",
+    "videoID": "LVRcD_-ht3g",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "487-2",
+    "videoID": "UeOy1WKeTRY",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "377-1",
+    "videoID": "RF86oSB6_bc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "404-3",
+    "videoID": "4aPxxE345OM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "313-3",
+    "videoID": "osRzbY_AdaM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "564-1",
+    "videoID": "tPQX0lMk6U0",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "401-1",
+    "videoID": "TIK01MpwWGg",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "351-2",
+    "videoID": "pmF41T52nJs",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "470-3",
+    "videoID": "ZFtxvf72NxA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "396-3",
+    "videoID": "QI9VIulqTCA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "399-3",
+    "videoID": "I5cFBi02O34",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "313-2",
+    "videoID": "osRzbY_AdaM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "316-3",
+    "videoID": "IaTaaNinolU",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "330-2",
+    "videoID": "cMim0uU1yzA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "398-2",
+    "videoID": "Jm0MLlE4x0U",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "542-3",
+    "videoID": "3x8pvm0g5AU",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "423-1",
+    "videoID": "S6hF2ffyz2c",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "486-3",
+    "videoID": "WO86oRJt8lM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "575-2",
+    "videoID": "cFqLEwAvaHI",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "475-2",
+    "videoID": "Hw5qjcnhrW4",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "324-3",
+    "videoID": "eWUAB194qhU",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "405-3",
+    "videoID": "hjNX33W-99I",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "391-2",
+    "videoID": "jIzGzPzdLwM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "401-2",
+    "videoID": "TIK01MpwWGg",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "306-3",
+    "videoID": "s_TGkDcjBqI",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "423-2",
+    "videoID": "S6hF2ffyz2c",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "532-3",
+    "videoID": "tdAVvYsU8q8",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "363-2",
+    "videoID": "HwpzzAefx9M",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "415-3",
+    "videoID": "HeEyJo838PA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "344-1",
+    "videoID": "GQEYGAJIzAM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "481-2",
+    "videoID": "CwzjlmBLfrQ",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "536-2",
+    "videoID": "-c8eATXUui8",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "304-1",
+    "videoID": "QTA8j5wSTx4",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "312-2",
+    "videoID": "RBTiTcHm_ac",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "549-3",
+    "videoID": "skbELjWHyXA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "452-2",
+    "videoID": "Xim8-lUZnsA",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "496-3",
+    "videoID": "1uqupftxFOM",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "587-1",
+    "videoID": "zPyWOtToo6E",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "442-1",
+    "videoID": "kjwjDjQupLc",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "444-1",
+    "videoID": "EavQ0LtEICY",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "538-1",
+    "videoID": "uhYiRmGURwE",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "352-1",
+    "videoID": "xa6SdvFA3w0",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "403-3",
+    "videoID": "iC54QQSe4_I",
+    "task_type": "Action Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "006-2",
+    "videoID": "40BlVzjxu-I",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "007-2",
+    "videoID": "0ay2Qy3wBe8",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "012-2",
+    "videoID": "qvwfWyU9Gfc",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "014-3",
+    "videoID": "uqILuTcux_o",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "037-3",
+    "videoID": "EQ-67udZEeg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "041-1",
+    "videoID": "yl5ZXQmrtP0",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "057-2",
+    "videoID": "zBnKgwnn7i4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "072-3",
+    "videoID": "VsuShNWghXk",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "079-3",
+    "videoID": "WViSvPFUVd8",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "224-3",
+    "videoID": "g1MCVp5xICM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "229-3",
+    "videoID": "IKtnfFHjERg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "242-1",
+    "videoID": "lokFoo_QD8c",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "248-2",
+    "videoID": "6NVr0cNiHPM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "303-2",
+    "videoID": "kSBB5PsRV-k",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "305-3",
+    "videoID": "tuZcS2Flabw",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "307-1",
+    "videoID": "8l1NyR6UvxU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "309-3",
+    "videoID": "tjrvKA4w9-Y",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "310-2",
+    "videoID": "A9fQPzZ1-hg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "316-2",
+    "videoID": "IaTaaNinolU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "317-3",
+    "videoID": "Bkheu99K5lY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "321-2",
+    "videoID": "7Hk9jct2ozY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "322-2",
+    "videoID": "UZTf3OXJDWA",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "323-3",
+    "videoID": "URUJD5NEXC8",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "327-2",
+    "videoID": "iPi-QNYgAa4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "331-3",
+    "videoID": "t6V9i8fFADI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "334-3",
+    "videoID": "257wV-AbKaE",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "351-3",
+    "videoID": "pmF41T52nJs",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "352-3",
+    "videoID": "xa6SdvFA3w0",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "359-3",
+    "videoID": "QTK_bC00ilg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "367-2",
+    "videoID": "orVnyudsNuw",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "375-1",
+    "videoID": "axGscDVdHWg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "385-1",
+    "videoID": "bepwr1-CNRU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "386-2",
+    "videoID": "yU5kPoc7sL4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "387-1",
+    "videoID": "Lyv_2usFQA0",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "387-2",
+    "videoID": "Lyv_2usFQA0",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "394-3",
+    "videoID": "V6ui161NyTg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "448-3",
+    "videoID": "YPvxuoNLgPE",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "461-3",
+    "videoID": "UmIYanq5gH8",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "463-2",
+    "videoID": "u_f0697yLBI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "464-1",
+    "videoID": "ZQIZx5Oqw88",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "465-3",
+    "videoID": "zW87tVnDKIU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "466-2",
+    "videoID": "UIX6f0xMQ2U",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "A",
+    "correct": true
+  },
+  {
+    "question_id": "468-3",
+    "videoID": "e-XGSYnhUjg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "471-2",
+    "videoID": "vgWlRdNOGx4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "472-3",
+    "videoID": "qkRUcYHJ1JI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "478-2",
+    "videoID": "PAI-gQ19pbs",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "479-1",
+    "videoID": "hQYRDNl-lGI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "491-2",
+    "videoID": "dez7DLniEJA",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "492-2",
+    "videoID": "qNWL4S5bDt4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "493-2",
+    "videoID": "F4v0BZtrSbY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "496-1",
+    "videoID": "1uqupftxFOM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "497-1",
+    "videoID": "9HPFkUhOp1Q",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "499-1",
+    "videoID": "umfD-K4OTKk",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "500-1",
+    "videoID": "MZdvZBy1bE8",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "508-1",
+    "videoID": "QopYbLq-zIQ",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "515-1",
+    "videoID": "a7jZszvFpTY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "521-1",
+    "videoID": "qJGqZ_g__So",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "522-3",
+    "videoID": "0ag_Qi5OEd0",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "523-1",
+    "videoID": "aAxGTnVNJiE",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "525-1",
+    "videoID": "HZJXPm0nhgY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "527-1",
+    "videoID": "-gnfUTPmnNU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "529-1",
+    "videoID": "jWa2yrLGxCM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "531-3",
+    "videoID": "xk8PdL_PdSo",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "534-1",
+    "videoID": "ZBKUqc_ICpg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "541-2",
+    "videoID": "yA79KYMLUpI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "543-3",
+    "videoID": "MZEdnBcLcfg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "544-2",
+    "videoID": "_CqKv0Y1FB0",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "545-1",
+    "videoID": "ntdzrNKRH4g",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "547-3",
+    "videoID": "x-ccfWcbht4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "549-2",
+    "videoID": "skbELjWHyXA",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "550-1",
+    "videoID": "Z7LJrU4443Q",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "551-3",
+    "videoID": "yfbeNtST6Fs",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "554-3",
+    "videoID": "QPzmsQ86_HM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "556-2",
+    "videoID": "XkFulQe9EVE",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "557-1",
+    "videoID": "FtIF8VafVZY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "558-2",
+    "videoID": "pQIGOTs6XWg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "558-3",
+    "videoID": "pQIGOTs6XWg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "559-2",
+    "videoID": "wUnEDnAYTpE",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "560-1",
+    "videoID": "NeLj-gLWgug",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "561-2",
+    "videoID": "A30IuIjQYYg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "566-3",
+    "videoID": "4ME5ZfDg2aw",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "582-3",
+    "videoID": "8-aI8Fp2bPU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "D",
+    "correct": true
+  },
+  {
+    "question_id": "585-3",
+    "videoID": "U8WCRz0Yh4Q",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "B",
+    "correct": true
+  },
+  {
+    "question_id": "589-3",
+    "videoID": "FYJJbwG_i8U",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "592-1",
+    "videoID": "InHaW59CmDw",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "599-2",
+    "videoID": "0JjgoicpYkU",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "859-1",
+    "videoID": "u4TU2A7eVj8",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "850-3",
+    "videoID": "5Z2_uRf7ckY",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "864-3",
+    "videoID": "VFntoBRGF1A",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "896-2",
+    "videoID": "xIWaK92gRlo",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "D",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "642-2",
+    "videoID": "lAgwMGRvJrM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "868-2",
+    "videoID": "eZ5lFBPpRkM",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "A",
+    "correct": false
+  },
+  {
+    "question_id": "795-2",
+    "videoID": "D97vMwfWxvI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "C",
+    "correct": true
+  },
+  {
+    "question_id": "678-2",
+    "videoID": "B0-7MeWA2aI",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "675-2",
+    "videoID": "lVeNTofDB2k",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "862-2",
+    "videoID": "uzyYKAPcfmE",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "674-2",
+    "videoID": "gKjpYd1Ogwg",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "A",
+    "prediction": "B",
+    "correct": false
+  },
+  {
+    "question_id": "887-3",
+    "videoID": "proINILL4X4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "D",
+    "correct": false
+  },
+  {
+    "question_id": "628-2",
+    "videoID": "YdMCL9_UTE4",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "B",
+    "prediction": "C",
+    "correct": false
+  },
+  {
+    "question_id": "744-3",
+    "videoID": "4od5mdtEp-E",
+    "task_type": "Temporal Reasoning",
+    "condition": "black",
+    "ground_truth": "C",
+    "prediction": "A",
+    "correct": false
+  }
+]

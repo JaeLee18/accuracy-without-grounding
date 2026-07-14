@@ -1,0 +1,2588 @@
+{
+  "-3t1rj8g6yg": {
+    "avg_flow": 6.00192893743515,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "-ApL8d6tX5U": {
+    "avg_flow": 6.626016387293203,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "-c8eATXUui8": {
+    "avg_flow": 7.667357921600342,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "-gnfUTPmnNU": {
+    "avg_flow": 4.423013064730912,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "-qTAeVGl_e8": {
+    "avg_flow": 8.035781133174897,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "026dzf-vc5g": {
+    "avg_flow": 6.2373432741267605,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "0IdYJGBmguM": {
+    "avg_flow": 6.434364585252479,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "0JjgoicpYkU": {
+    "avg_flow": 6.825356602668762,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "0ag_Qi5OEd0": {
+    "avg_flow": 3.6815688371658326,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "0ay2Qy3wBe8": {
+    "avg_flow": 3.525810939073563,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "1q-5IIyZL20": {
+    "avg_flow": 6.5202728629112245,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "1sTQOxXFO44": {
+    "avg_flow": 6.994148802757263,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "1tidNDIpKSY": {
+    "avg_flow": 4.440535895526409,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "1uqupftxFOM": {
+    "avg_flow": 6.911599814891815,
+    "task_types": [
+      "Action Reasoning",
+      "Temporal Reasoning"
+    ]
+  },
+  "24i4ncHuf6A": {
+    "avg_flow": 4.345543670654297,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "257wV-AbKaE": {
+    "avg_flow": 6.76763054728508,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "27YZLpw0M98": {
+    "avg_flow": 5.97705514729023,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "2Gg4OQo7-zA": {
+    "avg_flow": 5.44703506231308,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "2QTiAmvygC4": {
+    "avg_flow": 6.027739870548248,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "2Qno7H4BwAU": {
+    "avg_flow": 9.322296270524385,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "2gFxZmb0dMo": {
+    "avg_flow": 7.102170913666487,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "2yGaTOzaGIA": {
+    "avg_flow": 4.792937919861288,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "39HTpUG1MwQ": {
+    "avg_flow": 3.5379512299085034,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "3E4Zca1p64s": {
+    "avg_flow": 6.588020583987236,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "3fQxvz4ENDg": {
+    "avg_flow": 5.89020331222564,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "3m29MQ-qPfg": {
+    "avg_flow": 6.292983984947204,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "3rTsETO3s9U": {
+    "avg_flow": 4.106566627707798,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "3x8pvm0g5AU": {
+    "avg_flow": 5.841828906536103,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "40BlVzjxu-I": {
+    "avg_flow": 4.2991322748363014,
+    "task_types": [
+      "Action Recognition",
+      "Temporal Reasoning"
+    ]
+  },
+  "43wqf_KhiUo": {
+    "avg_flow": 4.928980991244316,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "44ivpEIcBhE": {
+    "avg_flow": 5.237160484492779,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "4ME5ZfDg2aw": {
+    "avg_flow": 6.156859266757965,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "4V6G0qYVoBg": {
+    "avg_flow": 2.2233196495100858,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "4ZK-m01XSQ8": {
+    "avg_flow": 4.868917986750603,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "4aPxxE345OM": {
+    "avg_flow": 8.559467815980316,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "4od5mdtEp-E": {
+    "avg_flow": 7.440500545501709,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "4twBzf6ngSc": {
+    "avg_flow": 6.795387399196625,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "5-4Od1qn53s": {
+    "avg_flow": 6.1529880404472355,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "540LkURTR7g": {
+    "avg_flow": 3.2660367757111985,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "54YD3Gv-3MI": {
+    "avg_flow": 7.464709234237671,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "56yT3H_DjVE": {
+    "avg_flow": 6.994174981194408,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "5Knkqo-lYF0": {
+    "avg_flow": 6.242219454515725,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "5Z2_uRf7ckY": {
+    "avg_flow": 7.2302463293075565,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "5_fXicEnKKk": {
+    "avg_flow": 5.963406598567962,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "5kmnEgBSCfg": {
+    "avg_flow": 6.31473126411438,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "5ksVshqVuiM": {
+    "avg_flow": 3.1322034346871077,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "5wLv3pCqZ9o": {
+    "avg_flow": 4.731007403135299,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "5xi1iD4fkhc": {
+    "avg_flow": 6.321442055702209,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "6Cr_8tvvQ0k": {
+    "avg_flow": 9.161502599716187,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "6DO8yOVYXr0": {
+    "avg_flow": 6.12270872592926,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "6EIrArTyLVU": {
+    "avg_flow": 4.6042828492820265,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "6NVr0cNiHPM": {
+    "avg_flow": 5.53877226114273,
+    "task_types": [
+      "Object Recognition",
+      "Temporal Reasoning"
+    ]
+  },
+  "6Z_XNM_iT4g": {
+    "avg_flow": 3.7556697845458986,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "6ksaVHtfBG8": {
+    "avg_flow": 5.339219081401825,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "7Hk9jct2ozY": {
+    "avg_flow": 4.881176781654358,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "7R1eNHvfspk": {
+    "avg_flow": 6.378596431016922,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "7fnVcXfPe5c": {
+    "avg_flow": 2.659202966094017,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "7iXM5aq53Ts": {
+    "avg_flow": 3.24085553213954,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "8-aI8Fp2bPU": {
+    "avg_flow": 5.334087479673326,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "80p80ynsZ78": {
+    "avg_flow": 3.9282668426632883,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "84EpEwIVFdU": {
+    "avg_flow": 5.328678029775619,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "8TNPeimqOO0": {
+    "avg_flow": 4.753682255744934,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "8W4gbKKNI1E": {
+    "avg_flow": 4.902505853772164,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "8e05W-wi38g": {
+    "avg_flow": 7.008224582672119,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "8l1NyR6UvxU": {
+    "avg_flow": 6.647420871257782,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "8np5YKYx3sU": {
+    "avg_flow": 6.94161046743393,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "8y2Hj7GDcwI": {
+    "avg_flow": 4.447271476872265,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "913JhnW28U4": {
+    "avg_flow": 6.044677150249481,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "990ci2H9BBc": {
+    "avg_flow": 6.37350555062294,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "9HPFkUhOp1Q": {
+    "avg_flow": 6.138743805885315,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "9SEMSQDO-pg": {
+    "avg_flow": 4.5112325385212895,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "9Y-YJEtxHeo": {
+    "avg_flow": 6.095791447162628,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "9dQXiqS56Y4": {
+    "avg_flow": 5.249814053461887,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "9v9NHoTXc-Q": {
+    "avg_flow": 6.638950973749161,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "A30IuIjQYYg": {
+    "avg_flow": 7.448734211921692,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "A9fQPzZ1-hg": {
+    "avg_flow": 6.649180603027344,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "AIs3LoU4JUo": {
+    "avg_flow": 6.455994248390198,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "Atf_Af1q_5w": {
+    "avg_flow": 6.765664267539978,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "AyIqI6P8eN8": {
+    "avg_flow": 12.039271521568299,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "B0-7MeWA2aI": {
+    "avg_flow": 8.749831187725068,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "B2zhLYz4pYo": {
+    "avg_flow": 5.300713282823563,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "BEIVOKz4zXw": {
+    "avg_flow": 7.336191272735595,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "B_OL2TSrpKM": {
+    "avg_flow": 6.24108170713298,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "BiJtPU9uP0c": {
+    "avg_flow": 4.697541856765747,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "Bkheu99K5lY": {
+    "avg_flow": 6.249140733480454,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "BkiTScinYOQ": {
+    "avg_flow": 5.899257707595825,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "BrrDT_uYQsg": {
+    "avg_flow": 7.592077040672303,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "ByUONqA1IJY": {
+    "avg_flow": 5.0792277900734915,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "CHlJdMVLV2s": {
+    "avg_flow": 5.680458939168602,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "CwzjlmBLfrQ": {
+    "avg_flow": 5.565753483772278,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "D52rTzibFRc": {
+    "avg_flow": 4.172175389528275,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "D61jenC5oBA": {
+    "avg_flow": 1.8782895237207413,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "D97vMwfWxvI": {
+    "avg_flow": 5.319314575195312,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "DF_J3vCcbBA": {
+    "avg_flow": 3.376400053501129,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "DK6bKtXUE1c": {
+    "avg_flow": 6.53636080622673,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "DfZIv2FKWj4": {
+    "avg_flow": 6.394744062423706,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "DoFmXBjRGmk": {
+    "avg_flow": 7.80911808013916,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "E895PNqSgEI": {
+    "avg_flow": 5.083805714642232,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "EJ_yarUrgVQ": {
+    "avg_flow": 5.830217599868774,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "EQ-67udZEeg": {
+    "avg_flow": 1.6819605957716703,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "EVnzXA9b7Ww": {
+    "avg_flow": 6.971386385709048,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "EavQ0LtEICY": {
+    "avg_flow": 7.707149720191955,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "F4v0BZtrSbY": {
+    "avg_flow": 6.989623868465424,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "FYJJbwG_i8U": {
+    "avg_flow": 6.792607856262475,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "FYqSATdr62Q": {
+    "avg_flow": 5.093101233243942,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "FjS2LzrHEO8": {
+    "avg_flow": 7.248591146769468,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "FlcVBKTSjRs": {
+    "avg_flow": 2.3890359036962763,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "FsLaTZmP6Uw": {
+    "avg_flow": 4.784322813153267,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "FtIF8VafVZY": {
+    "avg_flow": 6.992393493652344,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "G267g0DpCVg": {
+    "avg_flow": 6.135561537742615,
+    "task_types": [
+      "Action Reasoning",
+      "Object Recognition"
+    ]
+  },
+  "GQEYGAJIzAM": {
+    "avg_flow": 6.150130391120911,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "H8fbAFOMTp4": {
+    "avg_flow": 9.125997853279113,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "HIjX8OPuf-w": {
+    "avg_flow": 4.5750976502895355,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "HK13nVxBYxI": {
+    "avg_flow": 7.695490276813507,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "HZJXPm0nhgY": {
+    "avg_flow": 6.3761440448462965,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "HdBsD5VspVM": {
+    "avg_flow": 4.403464837837964,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "HeEyJo838PA": {
+    "avg_flow": 8.013380074501038,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "HiJb_2dvuHc": {
+    "avg_flow": 5.6567126393318174,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "HmnKbBmYii8": {
+    "avg_flow": 1.9368147507309914,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "HqAfzcJurMM": {
+    "avg_flow": 6.6286417007446286,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "Huj-zXv4DEw": {
+    "avg_flow": 5.950735890865326,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "Hw5qjcnhrW4": {
+    "avg_flow": 6.453337800502777,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "HwnB8aCn8yE": {
+    "avg_flow": 1.5978542521595955,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "HwpzzAefx9M": {
+    "avg_flow": 5.057154583930969,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "I5cFBi02O34": {
+    "avg_flow": 4.981787705421448,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "IGyx5UEwgtA": {
+    "avg_flow": 6.041621899604797,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "IKtnfFHjERg": {
+    "avg_flow": 2.8412104911287317,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception",
+      "Temporal Reasoning"
+    ]
+  },
+  "IPevXMMEVQ0": {
+    "avg_flow": 6.418045842647553,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "IRDp5HcZyVA": {
+    "avg_flow": 1.9815594494342803,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "IaTaaNinolU": {
+    "avg_flow": 3.840342086553574,
+    "task_types": [
+      "Action Reasoning",
+      "Temporal Reasoning"
+    ]
+  },
+  "Ij-FYOrklFE": {
+    "avg_flow": 5.725698375701905,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "InHaW59CmDw": {
+    "avg_flow": 4.05172945857048,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "IzQ2siryQrM": {
+    "avg_flow": 7.104259049892425,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "JP67IM1LX-M": {
+    "avg_flow": 5.845070707377454,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "Jm0MLlE4x0U": {
+    "avg_flow": 4.943073296546936,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "JxkJ-FwFeVI": {
+    "avg_flow": 6.319613695144653,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "KEy2iCzpce4": {
+    "avg_flow": 5.237430897005834,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "KOwR0Ln46Ks": {
+    "avg_flow": 7.272642731666565,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "KZu5iE7yrPI": {
+    "avg_flow": 5.821467959880829,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "KfTtpoIovuk": {
+    "avg_flow": 6.581111213937402,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "Kn10Jf1x24Q": {
+    "avg_flow": 6.68198595046997,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "LCtOpCi5r2s": {
+    "avg_flow": 4.029100543819368,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "LVRcD_-ht3g": {
+    "avg_flow": 5.96714334487915,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "LeBG88YT3rU": {
+    "avg_flow": 3.682111865282059,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "LlajSKnbcGk": {
+    "avg_flow": 5.85692822933197,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "Lv7cYKTYE2g": {
+    "avg_flow": 2.1338447446003554,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "Lyv_2usFQA0": {
+    "avg_flow": 10.418926078081132,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "M69Sn3OERZo": {
+    "avg_flow": 3.8513412244734355,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "M7WOXFvwbSY": {
+    "avg_flow": 2.678140177205205,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "MPfuSfiZ96A": {
+    "avg_flow": 4.284569257497788,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "MXKDvuEkSF0": {
+    "avg_flow": 4.333161488175392,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "MZEdnBcLcfg": {
+    "avg_flow": 6.76058521270752,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "MZdvZBy1bE8": {
+    "avg_flow": 5.9012962818145756,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "N1cdUjctpG8": {
+    "avg_flow": 1.8853923242480959,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "NEFG7YcIDcI": {
+    "avg_flow": 6.246062910556793,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "NXeHeEHj9Xc": {
+    "avg_flow": 5.716715440154076,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "NeLj-gLWgug": {
+    "avg_flow": 6.336473906040192,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "OE5S-NbNsro": {
+    "avg_flow": 1.964228880405426,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "OGQ7KwUXuBk": {
+    "avg_flow": 5.911382853984833,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "PAI-gQ19pbs": {
+    "avg_flow": 6.8748702764511105,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "PJHkIJZGwKA": {
+    "avg_flow": 7.338343715667724,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "PSC_HUeqaUk": {
+    "avg_flow": 6.274061471223831,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "PSt_op3fQck": {
+    "avg_flow": 3.8164528971421534,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "PU-XOFIJMlg": {
+    "avg_flow": 5.257611638307571,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "PYZSjin_Pe8": {
+    "avg_flow": 4.043444144725799,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "PYqmI0Hiaho": {
+    "avg_flow": 4.463737040269189,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "PaC3CEkCD6k": {
+    "avg_flow": 5.794541020505131,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "QGHVpr8FIN8": {
+    "avg_flow": 6.6451335698366165,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "QI9VIulqTCA": {
+    "avg_flow": 4.4268979847431185,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "QPzmsQ86_HM": {
+    "avg_flow": 7.044707703590393,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "QTA8j5wSTx4": {
+    "avg_flow": 7.284861421585083,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "QTK_bC00ilg": {
+    "avg_flow": 5.921820056438446,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "QUmkzhUQoEA": {
+    "avg_flow": 8.00740842819214,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "Qgr4dcsY-60": {
+    "avg_flow": 6.18423313498497,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "QhL6ICNQ_So": {
+    "avg_flow": 7.120020878314972,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "QopYbLq-zIQ": {
+    "avg_flow": 6.771667385101319,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "QtKT3q7xB4M": {
+    "avg_flow": 6.031155467033386,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "Qyg_91gNHCc": {
+    "avg_flow": 4.695022286847234,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "RBTiTcHm_ac": {
+    "avg_flow": 6.794344580173492,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "RF86oSB6_bc": {
+    "avg_flow": 7.145008659362793,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "RP1AL2DU6vQ": {
+    "avg_flow": 6.049127042293549,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "RU8IfXp7LbE": {
+    "avg_flow": 5.990053751692176,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "RqA3LAo75kw": {
+    "avg_flow": 8.101072704792022,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "RvnC--JjDBw": {
+    "avg_flow": 4.971612650156021,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "S1nUMsPC1-0": {
+    "avg_flow": 6.877547490596771,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "S6hF2ffyz2c": {
+    "avg_flow": 4.024990528821945,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "SFmocFLXg0Y": {
+    "avg_flow": 4.545649076998234,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "S_MAesZsnMk": {
+    "avg_flow": 7.959012997150421,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "SnOc5W0PgVE": {
+    "avg_flow": 3.9549115121364595,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "TIK01MpwWGg": {
+    "avg_flow": 5.642937672138214,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "TPS22HRRY1k": {
+    "avg_flow": 1.9735616660211235,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "TVkck1ACKDQ": {
+    "avg_flow": 3.737895128160017,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "TbaCxIJ_VP4": {
+    "avg_flow": 3.289816802740097,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "Tn70NxIMk2Q": {
+    "avg_flow": 6.423274850845337,
+    "task_types": [
+      "Action Reasoning",
+      "Object Recognition"
+    ]
+  },
+  "U8WCRz0Yh4Q": {
+    "avg_flow": 7.3231382131576535,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "UIX6f0xMQ2U": {
+    "avg_flow": 6.41927387714386,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "URUJD5NEXC8": {
+    "avg_flow": 4.47126117348671,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "UZTf3OXJDWA": {
+    "avg_flow": 2.553163120150566,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "UZvydHZKyww": {
+    "avg_flow": 4.286948197707534,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "UbIVqUDZOs0": {
+    "avg_flow": 6.840443605193485,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "UcL6WlcyBcI": {
+    "avg_flow": 6.231333154439926,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "UeOy1WKeTRY": {
+    "avg_flow": 6.716631686687469,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "UmIYanq5gH8": {
+    "avg_flow": 6.263430869579315,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "V6ui161NyTg": {
+    "avg_flow": 5.076251193881035,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "V9fsOaa97F4": {
+    "avg_flow": 6.550947499275208,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "VFntoBRGF1A": {
+    "avg_flow": 6.453745520114898,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "V_skpmEXebM": {
+    "avg_flow": 5.987128734588623,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "VgtNv__qR0k": {
+    "avg_flow": 6.253858096711338,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "VmNBt1tzC6k": {
+    "avg_flow": 7.298789715766906,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "VnvG08masio": {
+    "avg_flow": 5.590640352573246,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "VsuShNWghXk": {
+    "avg_flow": 3.256097263097763,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition",
+      "Temporal Reasoning"
+    ]
+  },
+  "W86cTIoMv2U": {
+    "avg_flow": 5.635443660756573,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "WO86oRJt8lM": {
+    "avg_flow": 5.452140432596207,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "WTQ7_e8bnfM": {
+    "avg_flow": 8.392675924301148,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "WViSvPFUVd8": {
+    "avg_flow": 6.937211215496063,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "WmVLcj-XKnM": {
+    "avg_flow": 6.3665177673101425,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "XK6ApJHa59I": {
+    "avg_flow": 5.956622271123342,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "XOJKiOw8Xqo": {
+    "avg_flow": 5.593524277210236,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "XS6ysDFTbLU": {
+    "avg_flow": 5.9980460673570635,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "XWfqBKeC0g8": {
+    "avg_flow": 3.2965065777301787,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "Xim8-lUZnsA": {
+    "avg_flow": 6.327507042884827,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "XkFulQe9EVE": {
+    "avg_flow": 7.63135142326355,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "YNV0pLQ3r5U": {
+    "avg_flow": 5.7772958993911745,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "YPaLGP_xr-w": {
+    "avg_flow": 5.608308617770672,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "YPvxuoNLgPE": {
+    "avg_flow": 6.141856336593628,
+    "task_types": [
+      "Action Reasoning",
+      "Temporal Reasoning"
+    ]
+  },
+  "YZ11C-U7S8I": {
+    "avg_flow": 4.865335415303707,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "YdMCL9_UTE4": {
+    "avg_flow": 6.693810176849365,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "YlAefotZNAc": {
+    "avg_flow": 4.554200962930918,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "YsPwg3dUwjQ": {
+    "avg_flow": 6.907704424858093,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "Z-rHofd6g2Q": {
+    "avg_flow": 4.519974735379219,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "Z7LJrU4443Q": {
+    "avg_flow": 8.150485515594482,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "ZBKUqc_ICpg": {
+    "avg_flow": 7.692915463447571,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "ZFtxvf72NxA": {
+    "avg_flow": 5.872337448596954,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "ZHWZf1Z4B5k": {
+    "avg_flow": 5.023339951038361,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "ZO12ZY38FEw": {
+    "avg_flow": 6.362735468149185,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "ZQIZx5Oqw88": {
+    "avg_flow": 6.557453560829162,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "ZfNSxRiYfZQ": {
+    "avg_flow": 5.73268503844738,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "_CqKv0Y1FB0": {
+    "avg_flow": 9.324685382843018,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "_KU4X06VNiE": {
+    "avg_flow": 5.2671391017735,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "_aVHf_jmWk8": {
+    "avg_flow": 2.3896122232079504,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "_cZXyj6rYVg": {
+    "avg_flow": 6.274228444695472,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "_qepWb_NVj4": {
+    "avg_flow": 6.105857312679291,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "_w4XRiUVfY4": {
+    "avg_flow": 6.838881969451904,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "a0AGwUACt7E": {
+    "avg_flow": 3.856889621465234,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "a7jZszvFpTY": {
+    "avg_flow": 7.040454411506653,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "aAxGTnVNJiE": {
+    "avg_flow": 6.854029369354248,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "aBdQQxgxDrY": {
+    "avg_flow": 8.99122200012207,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "aFfMGy94sjE": {
+    "avg_flow": 7.020794317126274,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "aWBRHk_-5as": {
+    "avg_flow": 7.451740884780884,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "ad_higXixRA": {
+    "avg_flow": 6.726254105567932,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "axGscDVdHWg": {
+    "avg_flow": 6.507122302055359,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "bHt0Riqz0qo": {
+    "avg_flow": 7.4885091304779055,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "bOUSkh5PInA": {
+    "avg_flow": 3.823362720012665,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "bYXhA8VG8Lw": {
+    "avg_flow": 6.342335891723633,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "bepwr1-CNRU": {
+    "avg_flow": 6.69721087217331,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "c0siCya457M": {
+    "avg_flow": 5.840678423643112,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "c66RN87YjNE": {
+    "avg_flow": 6.218571329116822,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "c9arR8T0Qts": {
+    "avg_flow": 5.4820199608802795,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "c9oXTCVcTSE": {
+    "avg_flow": 5.275422877073288,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "cFqLEwAvaHI": {
+    "avg_flow": 7.695139956474304,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "cMim0uU1yzA": {
+    "avg_flow": 7.636581790447235,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "cPlpZdGLa5A": {
+    "avg_flow": 7.2157523274421695,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "cVIfe0Gxa64": {
+    "avg_flow": 6.696766209602356,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "ce_uHxXsUWA": {
+    "avg_flow": 3.7293937446549537,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "dH8l--46j6s": {
+    "avg_flow": 7.891125440597534,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "dIPNQRVqJmY": {
+    "avg_flow": 3.5110327422618868,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "dez7DLniEJA": {
+    "avg_flow": 5.241246521472931,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "drbi6HK1gSc": {
+    "avg_flow": 5.6255511566647325,
+    "task_types": [
+      "Action Reasoning",
+      "Object Recognition"
+    ]
+  },
+  "e-XGSYnhUjg": {
+    "avg_flow": 6.324503755569458,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "eICN548E2TU": {
+    "avg_flow": 5.142936563491821,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "eTLMWnsStuk": {
+    "avg_flow": 2.901208479795605,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "eWUAB194qhU": {
+    "avg_flow": 6.585118532180786,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "eXKE0nAMmg4": {
+    "avg_flow": 7.504684579372406,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "eZ5lFBPpRkM": {
+    "avg_flow": 6.59650399684906,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "ebzbKa32kuk": {
+    "avg_flow": 5.262531810998917,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "ejFVFtJdP3s": {
+    "avg_flow": 6.979964017868042,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "fJ-hp5Jlbv0": {
+    "avg_flow": 5.4365391552448274,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "fQVhppRP4Wo": {
+    "avg_flow": 7.462139916419983,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception"
+    ]
+  },
+  "fRf2aYYPrkc": {
+    "avg_flow": 5.777286094427109,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "fSDq8CPXHQM": {
+    "avg_flow": 4.66230326294899,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "fkJv7LRa6Pc": {
+    "avg_flow": 6.1025071144104,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "fo0Hmch2YS0": {
+    "avg_flow": 5.846449434757233,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "g1MCVp5xICM": {
+    "avg_flow": 4.220710730552673,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "g7PjwIzqyCQ": {
+    "avg_flow": 6.4927207946777346,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "gD0MvkDGAMg": {
+    "avg_flow": 4.0237012058496475,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "gKjpYd1Ogwg": {
+    "avg_flow": 3.001505534350872,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "gR5YcIJhDcU": {
+    "avg_flow": 6.041785925626755,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "gTBRQaBRiSs": {
+    "avg_flow": 6.592700386047364,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "gvtvz-keDmE": {
+    "avg_flow": 5.513826808705926,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "hQYRDNl-lGI": {
+    "avg_flow": 7.620727944374084,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "hUrjmA0fhsc": {
+    "avg_flow": 6.465386459231377,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "hjNX33W-99I": {
+    "avg_flow": 6.803867650032044,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "hsKmC7RwHvo": {
+    "avg_flow": 3.244523197412491,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "hwloS0JY6Ms": {
+    "avg_flow": 4.473706328868866,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "iC54QQSe4_I": {
+    "avg_flow": 8.841050505638123,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "iOOseoPiw8E": {
+    "avg_flow": 4.5183030137442985,
+    "task_types": [
+      "Attribute Perception",
+      "OCR Problems"
+    ]
+  },
+  "iPi-QNYgAa4": {
+    "avg_flow": 4.589413951337337,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "iZYLeIJwe4w": {
+    "avg_flow": 4.667048645019531,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "j7vUGiA-uIE": {
+    "avg_flow": 5.3356275916099545,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "jIzGzPzdLwM": {
+    "avg_flow": 5.813725221157074,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "jTzKgI68VLc": {
+    "avg_flow": 5.921727854385972,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "jWa2yrLGxCM": {
+    "avg_flow": 6.581548178195954,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "jb-To6qJcxU": {
+    "avg_flow": 6.457227981090545,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "jmE9y0vv2aM": {
+    "avg_flow": 10.947709155082702,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "jznsxDcKSnE": {
+    "avg_flow": 2.3576560236513613,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "k74LDvXSnHM": {
+    "avg_flow": 4.958466559933731,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "kSBB5PsRV-k": {
+    "avg_flow": 3.1904527306556703,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "kePBvNotYy4": {
+    "avg_flow": 9.067894339561462,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "kjwjDjQupLc": {
+    "avg_flow": 7.568916583061219,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "lAgwMGRvJrM": {
+    "avg_flow": 4.573638533800841,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "lKoG2_zdoSA": {
+    "avg_flow": 5.511472824215889,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "lNKtsi2Cu0E": {
+    "avg_flow": 8.037553405761718,
+    "task_types": [
+      "Action Recognition",
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "lNO6cYxqMZk": {
+    "avg_flow": 4.4139750137925144,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "lNvBXLbInXE": {
+    "avg_flow": 7.370127049088478,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "lVeNTofDB2k": {
+    "avg_flow": 6.92072217464447,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "lmlw4NNZBbw": {
+    "avg_flow": 2.676886236667633,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "lokFoo_QD8c": {
+    "avg_flow": 7.253697037696838,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "lsfEHOtYGyk": {
+    "avg_flow": 0.7918147772084921,
+    "task_types": [
+      "Action Recognition",
+      "Object Recognition"
+    ]
+  },
+  "m4qhFFdHTCc": {
+    "avg_flow": 5.205996460956522,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "mBD-TPIHbUs": {
+    "avg_flow": 4.153863858165986,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "mD_7mhnPS_Y": {
+    "avg_flow": 5.532594293355942,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "mVIXU0x9ocI": {
+    "avg_flow": 5.049977135658264,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "n3IYmdy6d4Y": {
+    "avg_flow": 5.596897029876709,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "n7q1yYzx2g8": {
+    "avg_flow": 5.695872104167938,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "nKtWkDNGNOw": {
+    "avg_flow": 5.021902304887772,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "nVtTVt9csBc": {
+    "avg_flow": 7.494179534912109,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "nYLMNQ77FjM": {
+    "avg_flow": 3.489508674759418,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "nbOXpuv7K4Q": {
+    "avg_flow": 5.553692114942533,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "njc90ODIbLc": {
+    "avg_flow": 5.331594490131829,
+    "task_types": [
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "ntdzrNKRH4g": {
+    "avg_flow": 6.707917499542236,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "ooqdg9Wr-mo": {
+    "avg_flow": 7.981004238128662,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "orVnyudsNuw": {
+    "avg_flow": 5.2297427415847775,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "osRzbY_AdaM": {
+    "avg_flow": 5.147122371196747,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "pQIGOTs6XWg": {
+    "avg_flow": 6.800660228729248,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "p_-ocKiob4w": {
+    "avg_flow": 6.066403782367706,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "pcO-alfiyEo": {
+    "avg_flow": 7.638814800977707,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "pcm_E7UoKLo": {
+    "avg_flow": 6.248244919169406,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "pmF41T52nJs": {
+    "avg_flow": 5.577920377254486,
+    "task_types": [
+      "Action Reasoning",
+      "Temporal Reasoning"
+    ]
+  },
+  "proINILL4X4": {
+    "avg_flow": 5.572813320159912,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "pwVJizpCuDQ": {
+    "avg_flow": 6.468016016483307,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "qFUuUzZNznY": {
+    "avg_flow": 5.9561885595321655,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "qJGqZ_g__So": {
+    "avg_flow": 5.674473279714585,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "qK4G2KpmqFU": {
+    "avg_flow": 6.726775109156733,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "qNWL4S5bDt4": {
+    "avg_flow": 6.708497488498688,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "qhW8L_GAodE": {
+    "avg_flow": 3.474940004944801,
+    "task_types": [
+      "Action Reasoning",
+      "Object Recognition"
+    ]
+  },
+  "qkRUcYHJ1JI": {
+    "avg_flow": 5.600889146327972,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "qu9ImFMLYxw": {
+    "avg_flow": 5.389059579372406,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "qvwfWyU9Gfc": {
+    "avg_flow": 3.7093426536708494,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception",
+      "Temporal Reasoning"
+    ]
+  },
+  "rL9JCz7S8Jg": {
+    "avg_flow": 3.519702249765396,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "rQhLWHtHyiM": {
+    "avg_flow": 6.850775265693665,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "rj6rJzs029A": {
+    "avg_flow": 6.168123543262482,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "s-lM2uwiwyQ": {
+    "avg_flow": 6.836556529998779,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "s50vvwTystA": {
+    "avg_flow": 5.3594331502914425,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "sUDY-SMREtA": {
+    "avg_flow": 5.30908704996109,
+    "task_types": [
+      "Action Reasoning",
+      "Attribute Perception"
+    ]
+  },
+  "s_TGkDcjBqI": {
+    "avg_flow": 8.565025597810745,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "sf4qRY3h_eo": {
+    "avg_flow": 5.506387853622437,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "skbELjWHyXA": {
+    "avg_flow": 5.1895144283771515,
+    "task_types": [
+      "Action Reasoning",
+      "Temporal Reasoning"
+    ]
+  },
+  "sxsjigV9S-Y": {
+    "avg_flow": 4.568711060285568,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "t6V9i8fFADI": {
+    "avg_flow": 4.60018031001091,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "tCRpDpDgBcE": {
+    "avg_flow": 6.434016287326813,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "tGdL-34L-GE": {
+    "avg_flow": 6.3646159887313845,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "tNQo2GTbP6s": {
+    "avg_flow": 4.650098460912704,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "tPQX0lMk6U0": {
+    "avg_flow": 5.7748151242733,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "tS4a6I4-Yjo": {
+    "avg_flow": 6.466213297843933,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "tX8a00l_Dfs": {
+    "avg_flow": 2.5182721346616743,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "tbKTfX5Az6w": {
+    "avg_flow": 2.6770615190267564,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems"
+    ]
+  },
+  "tdAVvYsU8q8": {
+    "avg_flow": 5.579463100433349,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "tiMaUSvlzIU": {
+    "avg_flow": 6.164091992378235,
+    "task_types": [
+      "Action Reasoning",
+      "Action Recognition"
+    ]
+  },
+  "tjrvKA4w9-Y": {
+    "avg_flow": 7.364947080612183,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "tuZcS2Flabw": {
+    "avg_flow": 5.653073692321778,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "u4TU2A7eVj8": {
+    "avg_flow": 10.108995485305787,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "uF3zNOthLAg": {
+    "avg_flow": 4.580680614709854,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "uJFbOrNrL3w": {
+    "avg_flow": 4.80681595786009,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "u_f0697yLBI": {
+    "avg_flow": 5.708250689506531,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  },
+  "ufZMrlZRn8o": {
+    "avg_flow": 3.1238430082798003,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "uhYiRmGURwE": {
+    "avg_flow": 7.667645788192749,
+    "task_types": [
+      "Action Reasoning"
+    ]
+  },
+  "umfD-K4OTKk": {
+    "avg_flow": 5.384000217914581,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "uoJDGnaVuTg": {
+    "avg_flow": 0.6486052013933659,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "uqILuTcux_o": {
+    "avg_flow": 7.313912498950958,
+    "task_types": [
+      "Object Recognition",
+      "Temporal Reasoning"
+    ]
+  },
+  "uz6rjbw0ZA0": {
+    "avg_flow": 4.138347601890564,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "uzyYKAPcfmE": {
+    "avg_flow": 7.5186322093009945,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "v0m3E_uSyFg": {
+    "avg_flow": 6.110048305988312,
+    "task_types": [
+      "Attribute Perception",
+      "Object Recognition"
+    ]
+  },
+  "vQTQJ1Mlzqo": {
+    "avg_flow": 4.035492360594806,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "vf3sPa2W0sA": {
+    "avg_flow": 6.398399519920349,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "vgWlRdNOGx4": {
+    "avg_flow": 4.447538805007935,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "wGfRSojH0PE": {
+    "avg_flow": 5.741124629974365,
+    "task_types": [
+      "Action Recognition",
+      "OCR Problems",
+      "Object Recognition"
+    ]
+  },
+  "wUnEDnAYTpE": {
+    "avg_flow": 6.979063487052917,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "wVlfyhs64IY": {
+    "avg_flow": 7.718842017650604,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "x-ccfWcbht4": {
+    "avg_flow": 7.091430968046188,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "x6jPuXwtxCM": {
+    "avg_flow": 6.303422553837299,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "xIWaK92gRlo": {
+    "avg_flow": 5.423475956916809,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "xa6SdvFA3w0": {
+    "avg_flow": 6.8125699162483215,
+    "task_types": [
+      "Action Reasoning",
+      "Temporal Reasoning"
+    ]
+  },
+  "xk8PdL_PdSo": {
+    "avg_flow": 5.178358244895935,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "y6ReUXtm_VE": {
+    "avg_flow": 6.992134153842926,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "yA79KYMLUpI": {
+    "avg_flow": 6.197099810838699,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "yU5kPoc7sL4": {
+    "avg_flow": 3.116761440038681,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "yXNShWnon4g": {
+    "avg_flow": 3.521402328275144,
+    "task_types": [
+      "Attribute Perception"
+    ]
+  },
+  "yXl0Vrk5ssk": {
+    "avg_flow": 3.8574324429035185,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "yfbeNtST6Fs": {
+    "avg_flow": 7.012229156494141,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "ykJ7pyr87Qc": {
+    "avg_flow": 0.9685568565502762,
+    "task_types": [
+      "Action Recognition"
+    ]
+  },
+  "yl5ZXQmrtP0": {
+    "avg_flow": 7.221071189641952,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "zBnKgwnn7i4": {
+    "avg_flow": 2.959932163404301,
+    "task_types": [
+      "Temporal Reasoning"
+    ]
+  },
+  "zIbNJCSCEjk": {
+    "avg_flow": 5.26107069849968,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "zNxi2s36tS0": {
+    "avg_flow": 3.229193185269833,
+    "task_types": [
+      "OCR Problems"
+    ]
+  },
+  "zPx3EibuO_w": {
+    "avg_flow": 7.278686547279358,
+    "task_types": [
+      "Object Recognition"
+    ]
+  },
+  "zPyWOtToo6E": {
+    "avg_flow": 6.596673941612243,
+    "task_types": [
+      "Action Reasoning",
+      "OCR Problems"
+    ]
+  },
+  "zW87tVnDKIU": {
+    "avg_flow": 7.507565331459046,
+    "task_types": [
+      "OCR Problems",
+      "Temporal Reasoning"
+    ]
+  }
+}
